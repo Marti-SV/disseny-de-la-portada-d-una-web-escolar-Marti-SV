@@ -8,8 +8,12 @@
   }
 
   h1{
-    display: block;
+    display: inline;
     color: white;
+  }
+
+  .logoPedralbes{
+    margin-right: 40px;
   }
     
   section {
@@ -31,11 +35,12 @@
     clear: both;
   }
   
-  header, section, aside, nav, footer {
+  section, aside, nav {
     padding: 20px;
   }
     
   header, footer {
     background-color: #00aeef;
+    padding: 20px;
   }
   
